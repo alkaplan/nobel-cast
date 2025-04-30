@@ -1,0 +1,2 @@
+You need to add a cover image for your podcast here.
+Create a 1400x1400 pixel image named "cover.jpg" and place it in this directory.
